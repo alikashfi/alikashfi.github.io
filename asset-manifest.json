@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.abd64e84.css",
+    "main.js": "/static/js/main.89e172c9.js",
+    "static/media/telegram.png": "/static/media/telegram.811639b48d8e3a9d8b71.png",
+    "static/media/logo.png": "/static/media/logo.cb1acf050aa725e14d66.png",
+    "index.html": "/index.html",
+    "static/media/comment.svg": "/static/media/comment.d5a52e4d3b53c329a936c5525d39dd4c.svg",
+    "main.abd64e84.css.map": "/static/css/main.abd64e84.css.map",
+    "main.89e172c9.js.map": "/static/js/main.89e172c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.89e172c9.js"
+  ]
+}
